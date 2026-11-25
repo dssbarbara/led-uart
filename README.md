@@ -127,3 +127,10 @@ O script envia comandos válidos (liga, toggle, pisca, desliga) e depois casos i
 ## Decisões de projeto
 
 - **"Pisca 1s / 2s"** foi interpretado como trocar de estado a cada 1s ou 2s. Para um ciclo completo de 1s ou 2s, basta dividir o período por 2.
+
+
+##Teste do Código
+
+https://github.com/user-attachments/assets/d9e998a9-fb87-4a6c-ac0a-1f779c5e7869
+
+
